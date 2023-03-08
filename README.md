@@ -5,3 +5,4 @@
 [![License](https://img.shields.io/badge/license-GNU-blue.svg)](https://www.gnu.org/licenses/)
 
 Android responsive icon pack: Interactive icons can make devices more coherent by unifying the shape of all app icons and opening the door to interesting visual effects.
+
